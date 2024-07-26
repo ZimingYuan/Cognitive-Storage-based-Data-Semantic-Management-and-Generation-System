@@ -1,0 +1,10 @@
+^C:\USERS\YZMYZ\COGNITIVE-STORAGE-SYSTEM\OPS\CPP\BUILD\TEMP.WIN-AMD64-CPYTHON-39\RELEASE\RYZENAI\CMAKEFILES\5A355366B9B5CE242C3A5E7E2650E75C\GENERATE.STAMP.RULE
+setlocal
+C:\Users\yzmyz\AppData\Local\Temp\pip-build-env-kh9qvqi6\overlay\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/yzmyz/cognitive-storage-system/ops/cpp -BC:/Users/yzmyz/cognitive-storage-system/ops/cpp/build/temp.win-amd64-cpython-39/Release/RyzenAI --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/yzmyz/cognitive-storage-system/ops/cpp/build/temp.win-amd64-cpython-39/Release/RyzenAI/RyzenAI.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

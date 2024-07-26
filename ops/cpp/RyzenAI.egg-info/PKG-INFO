@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RyzenAI
+Version: 0.0.1
+Summary: Python binding to execute ops on AIE
+Author: Tejus Siddagangaiah
+Author-email: tejus.siddagangaiah@amd.com
+Requires-Python: >=3.7
+Provides-Extra: test
+Requires-Dist: pytest>=6.0; extra == "test"

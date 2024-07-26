@@ -1,0 +1,3 @@
+C:/Users/yzmyz/cognitive-storage-system/ops/cpp/build/temp.win-amd64-cpython-39/Release/RyzenAI/CMakeFiles/RyzenAI.dir
+C:/Users/yzmyz/cognitive-storage-system/ops/cpp/build/temp.win-amd64-cpython-39/Release/RyzenAI/CMakeFiles/ALL_BUILD.dir
+C:/Users/yzmyz/cognitive-storage-system/ops/cpp/build/temp.win-amd64-cpython-39/Release/RyzenAI/CMakeFiles/ZERO_CHECK.dir
